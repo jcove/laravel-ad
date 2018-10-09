@@ -16,5 +16,10 @@
                 "Jcove\\Ad\\AdServiceProvider"
             ]
         }
+    },
+    "autoload": {
+        "psr-4": {
+            "Jcove\\Ad\\": "src/"
+        }
     }
 }
